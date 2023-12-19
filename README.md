@@ -1,6 +1,6 @@
 # Weather Forecast Website
 
-This is a simple Weather Forecast Website that I developed during my internship.
+This is a simple Weather Forecast Website that I developed during Bharat internship.
 
 ## Demo
 
