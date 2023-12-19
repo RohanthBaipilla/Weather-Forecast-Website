@@ -10,6 +10,8 @@ Check out the live demo [here](https://rohanthbaipilla.github.io/Weather-Forecas
 
 I had implemented the project using the OPEN WEATHER API
 
-### Deployment Link
+## Deployment Link
 
 https://rohanthbaipilla.github.io/Weather-Forecast-Website/
+
+
